@@ -1,5 +1,4 @@
 
-//Omnia Osama Ahmed 1084505
 public class BST_ParkingSpace extends BST<ParkingSpace> {
     public BST_ParkingSpace(){};
 
